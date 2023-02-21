@@ -67,6 +67,7 @@ nuxtApp.hook("page:finish", () => {
 @media (max-width: 800px) {
   .loading-box {
     h3 {
+      font-size: 14px;
       left: 0px;
       margin-bottom: 0;
     }
